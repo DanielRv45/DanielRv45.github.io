@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lg{
+    width: 700px;
+    background: rgb(22, 22, 22);
+    padding: 60px;
+    margin: auto;
+}
+.lg h4{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.lg{
+    width: 400px;
+    background: rgb(0, 0, 0);
+    padding: 4px;
+    margin-bottom: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(4, 150, 50);
+}
+.lg p{
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+.lg a{
+    color: rgb(4, 139, 38);
+    text-decoration: navy;
+    background-color: none;
+}
+.lg a:hover{
+    color: red;
+    text-decoration: underline;
+}
